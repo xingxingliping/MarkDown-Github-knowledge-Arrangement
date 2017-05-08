@@ -72,4 +72,14 @@
     
     ③求职者：制作求职简历
 4.	MarkDown的编辑工具有哪些？
+
+    + Mac OS X:Mou
+    + Windows:MarkdownPad , MarkPad
+    + Linux: ReText
+    + Web:简书，github,有道云笔记
 5.	MarkDown的区块元素和区段元素分别包含哪些？
+
+    区块元素：段落和换行, 标题, 列表, 代码区块, 分割线, 区块引用Blockquotes
+
+    区段元素：链接, 强调, 代码, 图片
+  
