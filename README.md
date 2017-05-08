@@ -64,7 +64,7 @@
 **7.	Echo是什么命令**  
     打印信息  
 **8.	配置git用户名的命令**  
-    Git config – global user.name”xing”
+    Git config – global user.name”xing”  
 **9.	配置邮箱的命令**  
     Gir config – global user.email”957373772@qq.com”  
 **10. 命令行换行方式**  
@@ -95,11 +95,11 @@
 **22. 查看历史信息的命令**  
     Git log  
 **23. Commit的意义是**  
-    提交信息  
+    提交信息  
 **24. Pull的意义是**  
-    远程仓库中的信息同步到本地仓库进行合并    
-**25. Push的意义是** 
-    本地仓库的信息同步到远程仓库进行合并  
+    远程仓库中的信息同步到本地仓库进行合并    
+**25. Push的意义是**  
+    本地仓库的信息同步到远程仓库进行合并  
 
 
 
