@@ -1,5 +1,6 @@
-#  Github 问题集（1）  
-**1. github是什么**      
+#  Github 问题集（1）
+
+ **1. github是什么**      
    - GitHub是IT技术人员的社交网站
    - GitHub是一个分布式的版本控制系统。  
 **2. git是什么**    
