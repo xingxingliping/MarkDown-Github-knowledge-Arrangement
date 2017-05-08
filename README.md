@@ -52,7 +52,7 @@
 
 
 # MarkDown相关问题整理
-**1.	MarkDown是什么？**  
+**1.	MarkDown是什么？**    
     MarkDown是一种轻量级的标记语言
 **2.	MarkDown的特点？**  
     - 兼容所有的文本编辑器与字处理软件
